@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+Hi, I'm Michał :) I'm fron-end developer based in Warsaw, Poland :) JS lover, geek, 🐕❤ 🤣
 
 ## About me 😎
 Currently, I work at Sodexo BRS Polska as a Front-end Developer where I am responsible for the maintenance and development of the front-end layer of Sodexo platforms.
