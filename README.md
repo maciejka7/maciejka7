@@ -5,7 +5,7 @@ Hi, I'm Michał :) I'm front-end Developer based in Warsaw, Poland :) JS lover, 
 ## About me 😎
 
 Presently I work for ING Bank Śląski as Front-End Dev. I'm working on web application, do the best I could deliver the best banking solution and great user experience. Stack I use on my daily basis: 
-- Web components powerd by Lit by Google
+- Web components powered by [Lit](https://lit.dev) by Google
 - with help of [Modern Web](https://modern-web.dev/) and [Open Web Components](https://open-wc.org/) 
 - Mocha and Chai testing
 - Redux
