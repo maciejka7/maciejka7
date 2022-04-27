@@ -6,9 +6,11 @@ Hi, I'm Michał :) I'm front-end Developer based in Warsaw, Poland :) JS lover, 
 
 Presently I work for ING Bank Śląski as Front-End Dev. I'm working on web application, do the best I could deliver the best banking solution and great user experience. Stack I use on my daily basis: 
 - Web components powerd by Lit by Google
+- with help of [Modern Web](https://modern-web.dev/) and [Open Web Components](https://open-wc.org/) 
+- Mocha and Chai testing
 - Redux
 - CSS
-- Azure 
+- Azure
 - and tons of custom solutions
 
 Before that, I worked at Sodexo BRS Polska as a front-end developer where I was responsible for maintaining and developing the front-end layer of Sodexo platforms. In my day-to-day work, I created modern solutions for our clients' needs and maintained and developed Sodexo's services.
