@@ -18,8 +18,8 @@ Before that, I worked at Sodexo BRS Polska as a front-end developer where I was 
 I solve problems using new tech like JS/TS, SASS, JSFrameworks.I love modern technology, 3D graphics and I spend long hours walking with my dog.I continue to expand my skills by deepening my knowledge of React, RN, back-end.
 
 ## Skills
-- JS/Ts 
-  - ES6, ESnext, GSAP, Loadash, Express
+- JS/TS
+  - ES6, ESnext, Loadash, Express
 - SASS 
   - Grid, Flexbox, CSS3
 - React 
