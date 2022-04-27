@@ -1,15 +1,14 @@
 # Hi there 👋
 Hi, I'm Michał :) I'm front-end Developer based in Warsaw, Poland :) JS lover, geek, 🐕❤ 🤣
 
+
 ## About me 😎
 
-Currently I work at ING Bank Śląski as a Front-End Dev. I'm working on web application, do best I could to deliver best banking solution and great user expirence.
+Presently I work for ING Bank Śląski as Front-End Dev. I'm working on web application, do the best I could deliver the best banking solution and great user experience.
 
-Previously, I worked at Sodexo BRS Polska as a Front-end Developer where I was responsible for the maintenance and development of the front-end layer of Sodexo's platforms. On my daily bases I was creating modern solutions for the needs of our clients and maintained and developed Sodexo's services.
+Before that, I worked at Sodexo BRS Polska as a front-end developer where I was responsible for maintaining and developing the front-end layer of Sodexo platforms. In my day-to-day work, I created modern solutions for our clients' needs and maintained and developed Sodexo's services.
 
-It solves problems using new technologies such as JS / TS, SASS, JSFrameworks
-I am a fan of modern technology, 3D graphics and I spend long hours walking with my dog.
-I am still developing my skills by deepening my knowledge of React, RN, back-end.
+I solve problems using new tech like JS/TS, SASS, JSFrameworks.I love modern technology, 3D graphics and I spend long hours walking with my dog.I continue to expand my skills by deepening my knowledge of React, RN, back-end.
 
 ## Skills
 - JS/Ts 
@@ -17,11 +16,11 @@ I am still developing my skills by deepening my knowledge of React, RN, back-end
 - SASS 
   - Grid, Flexbox, CSS3
 - React 
-  - React Hook Form, React Query, Gatsby, Testing Library, Styled Components, React Native, Redux Toolkit, Framer Motion
+  - React Hook Form, React Query, Next.js, Blitz.js, Testing Library, Styled Components, React Native, Redux Toolkit, Framer Motion
 - VUE 
   - Vuex, Vuelidate, VueRouter, Vue3, Nuxt
 - Tools
-  - Git, Tailwind Bootstrap 3/4, Adobe CC, Figma, Angular, jQuery😎
+  - Git, Tailwind, Bootstrap 3/4, Adobe CC, Figma, jQuery😎
 
 
 ## Contact 📫
